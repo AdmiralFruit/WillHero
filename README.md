@@ -1,5 +1,5 @@
 # Will-Hero
-
+The UML diagram, Use-Case diagram and a PPT briefly describing our work is added. 
 Gaming Rules
 1. The default world as the background and the first level of the game is supported. (See Video at 0:28 to 0:35)
 2. The Hero always keeps jumping at its current position. Each of these jumps is of fixed height. The player has to use a single input to move the Hero once in the forward direction. The Hero can only move in the forward direction of a fixed length with each input. The game should always display the Hero's location at the top. Location at any point is simply the total number of forward movements of the Hero. Our game could have a total of 122 locations, where the Boss fights between locations 107 to 112. (See https://www.youtube.com/watch?v=VuyBQOXcX00&ab_channel=MobileGamesDaily at 7:01 to 7:12, and the location is displayed at the top, e.g., the number 107 at the duration 7:01). 
